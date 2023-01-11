@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RobinPaulKoch
-- 👀 I’m interested in software engineering and machine learning!
-- 🌱 I’m currently learning to make a Styletransfer CycleGAN network
-- 💞️ I’m looking to collaborate on the Python Dash sample apps
+- 👀 I’m interested in software engineering!
+- 🌱 I’m currently learning full-stack development
+- 💞️ I’m looking to collaborate on different kinds of projects
 - 📫 If you are interested please reach out to me by email! -> robinkoch994@gmail.com
 
 <!---
